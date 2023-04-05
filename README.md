@@ -6,4 +6,4 @@
 | Знакомство с питоном (условия, логические операторы, циклы). **Морфологический анализ** русских слов (pymorphy) | [тетрадка](https://github.com/tbkazakova/compling_for_lyceum/blob/main/python%26pymorphy.ipynb)|
 | Знакомство с питоном (списки, индексы)| [тетрадка](https://github.com/tbkazakova/compling_for_lyceum/blob/main/pythonlists.ipynb)|
 | Визуализация данных из текста| [тетрадка](https://github.com/tbkazakova/compling_for_lyceum/blob/main/230309_drawtext.ipynb)|
-| Функции и tfidf| [тетрадка](https://github.com/tbkazakova/compling_for_lyceum/blob/main/seminars/230316_functions_tfidf.ipynb)|
+| Функции и **TF-IDF**| [тетрадка](https://github.com/tbkazakova/compling_for_lyceum/blob/main/seminars/230316_functions_tfidf.ipynb)|
