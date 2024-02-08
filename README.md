@@ -6,3 +6,5 @@
 | Знакомство с питоном (условия, циклы). **Морфологические анализаторы** pymorphy, Mystem, nltk, spaCy, Stanza | [тетрадка](https://github.com/tbkazakova/compling_for_lyceum/blob/main/seminars/231228_python%26morphanalyze.ipynb)|
 | Морфологические анализаторы своими руками: трансдьюсеры. Morfessor. | [тетрадка](https://github.com/tbkazakova/compling_for_lyceum/blob/main/seminars/morphanalysers_transdusers.ipynb)|
 | Простые визуализации текста| [тетрадка](https://github.com/tbkazakova/compling_for_lyceum/blob/main/seminars/240125_text2picture.ipynb)|
+| Регулярные выражения| [тетрадка](https://github.com/tbkazakova/compling_for_lyceum/blob/main/seminars/240208_re.ipynb)|
+| Краулеры и NER в spacy| [тетрадка](https://github.com/tbkazakova/compling_for_lyceum/blob/main/seminars/240208_html%26NER.ipynb)|
