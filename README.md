@@ -8,3 +8,5 @@
 | Простые визуализации текста| [тетрадка](https://github.com/tbkazakova/compling_for_lyceum/blob/main/seminars/240125_text2picture.ipynb)|
 | Регулярные выражения| [тетрадка](https://github.com/tbkazakova/compling_for_lyceum/blob/main/seminars/240208_re.ipynb)|
 | Краулеры и NER в spacy| [тетрадка](https://github.com/tbkazakova/compling_for_lyceum/blob/main/seminars/240208_html%26NER.ipynb)|
+| Z-оценка | [тетрадка](https://github.com/tbkazakova/compling_for_lyceum/blob/main/seminars/zscore.ipynb)|
+| Стилометрия | [тетрадка](https://github.com/tbkazakova/compling_for_lyceum/blob/main/seminars/stylo.ipynb)|
