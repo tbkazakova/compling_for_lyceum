@@ -10,3 +10,5 @@
 | Краулеры и NER в spacy| [тетрадка](https://github.com/tbkazakova/compling_for_lyceum/blob/main/seminars/240208_html%26NER.ipynb)|
 | Z-оценка | [тетрадка](https://github.com/tbkazakova/compling_for_lyceum/blob/main/seminars/zscore.ipynb)|
 | Стилометрия | [тетрадка](https://github.com/tbkazakova/compling_for_lyceum/blob/main/seminars/stylo.ipynb)|
+| Описательная статистика | [тетрадка](https://github.com/tbkazakova/compling_for_lyceum/blob/main/seminars/tend&var&outliers.ipynb)|
+| t-test | [тетрадка](https://github.com/tbkazakova/compling_for_lyceum/blob/main/seminars/t_test.ipynb)|
