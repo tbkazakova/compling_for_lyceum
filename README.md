@@ -12,3 +12,4 @@
 | Стилометрия | [тетрадка](https://github.com/tbkazakova/compling_for_lyceum/blob/main/seminars/stylo.ipynb)|
 | Описательная статистика | [тетрадка](https://github.com/tbkazakova/compling_for_lyceum/blob/main/seminars/tend&var&outliers.ipynb)|
 | t-test | [тетрадка](https://github.com/tbkazakova/compling_for_lyceum/blob/main/seminars/t_test.ipynb)|
+| Векторизация текстов: one-hot encoding и tf-idf | [тетрадка](https://github.com/tbkazakova/compling_for_lyceum/blob/main/seminars/onehot_tfidf.ipynb)|
