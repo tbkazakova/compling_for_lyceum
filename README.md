@@ -6,3 +6,4 @@
 | Знакомство с питоном (условия, циклы). **Морфологические анализаторы** pymorphy, Mystem, nltk, spaCy, Stanza | [тетрадка](https://github.com/tbkazakova/compling_for_lyceum/blob/main/seminars/231228_python%26morphanalyze.ipynb)|
 | Морфологические анализаторы своими руками: трансдьюсеры. Morfessor. | [тетрадка](https://github.com/tbkazakova/compling_for_lyceum/blob/main/seminars/morphanalysers_transdusers.ipynb)|
 | Питон: списки| [тетрадка](https://github.com/tbkazakova/compling_for_lyceum/blob/main/seminars/250123_pythonlists.ipynb)|
+| Питон: методы строк| [тетрадка](https://github.com/tbkazakova/compling_for_lyceum/blob/main/seminars/250130_strmethods_dict.ipynb)|
