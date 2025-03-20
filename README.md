@@ -8,3 +8,6 @@
 | Питон: списки| [тетрадка](https://github.com/tbkazakova/compling_for_lyceum/blob/main/seminars/250123_pythonlists.ipynb)|
 | Питон: методы строк| [тетрадка](https://github.com/tbkazakova/compling_for_lyceum/blob/main/seminars/250130_strmethods_dict.ipynb)|
 | Питон: словари | [тетрадка](https://github.com/tbkazakova/compling_for_lyceum/blob/main/seminars/250213_dict_ipynb.ipynb)|
+| Простые визуализации текста | [тетрадка]()|
+| Регулярные выражения | [тетрадка](https://github.com/tbkazakova/compling_for_lyceum/blob/main/seminars/240208_re.ipynb)|
+| Краулеры | [тетрадка](https://github.com/tbkazakova/compling_for_lyceum/blob/main/seminars/250320_html.ipynb)|
