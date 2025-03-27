@@ -11,3 +11,4 @@
 | Простые визуализации текста | [тетрадка](https://github.com/tbkazakova/compling_for_lyceum/blob/main/seminars/250306_textvis.ipynb)|
 | Регулярные выражения | [тетрадка](https://github.com/tbkazakova/compling_for_lyceum/blob/main/seminars/240208_re.ipynb)|
 | Краулеры | [тетрадка](https://github.com/tbkazakova/compling_for_lyceum/blob/main/seminars/250320_html.ipynb)|
+| Таблицы. Pandas | [тетрадка](https://github.com/tbkazakova/compling_for_lyceum/blob/main/seminars/250327_pandas.ipynb)|
