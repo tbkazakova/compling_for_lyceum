@@ -1,0 +1,24 @@
+arise;arose;arisen;подниматься
+be;was/were;been;быть
+bear;bore;born;родить
+become;became;become;сделаться
+begin;began;begun;начинать(ся)
+bend;bent;bent;гнуть
+bind;bound;bound;связывать
+bite;bit;bit;кусать(ся)
+bleed;bled;bled;истекать кровью
+blow;blew;blown;дуть
+break;broke;broken;ломать(ся)
+breed;bred;bred;воспитывать
+bring;brought;brought;приносить
+build;built;built;строить
+burn;burnt;burnt;гореть
+buy;bought;bought;покупать
+cast;cast;cast;кидать
+catch;caught;caught;ловить
+choose;chose;chosen;выбирать
+come;came;come;приходить
+cost;cost;cost;стоить
+cut;cut;cut;резать
+dig;dug;dug;рыть
+do;did;done;делать
