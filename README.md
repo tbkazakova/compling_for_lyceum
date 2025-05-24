@@ -13,3 +13,5 @@
 | Краулеры | [тетрадка](https://github.com/tbkazakova/compling_for_lyceum/blob/main/seminars/250320_html.ipynb)|
 | Таблицы. Pandas | [тетрадка](https://github.com/tbkazakova/compling_for_lyceum/blob/main/seminars/250327_pandas.ipynb)|
 | Описательная статистика. Z-оценка | [тетрадка](https://github.com/tbkazakova/compling_for_lyceum/blob/main/seminars/250417_zscore.ipynb)|
+| Векторизация текстов: one-hot encoding и tf-idf | [тетрадка](https://github.com/tbkazakova/compling_for_lyceum/blob/main/seminars/onehot_tfidf.ipynb)|
+| Векторизация слов: word2vec | [тетрадка](https://github.com/tbkazakova/compling_for_lyceum/blob/main/seminars/word2vec.ipynb)|
