@@ -7,3 +7,4 @@
 | Морфологические анализаторы своими руками: трансдьюсеры. Morfessor. | [тетрадка](https://github.com/tbkazakova/compling_for_lyceum/blob/main/seminars/morphanalysers_transdusers.ipynb)|
 | Регулярные выражения | [тетрадка](https://github.com/tbkazakova/compling_for_lyceum/blob/main/seminars/240208_re.ipynb)|
 | Простые визуализации текста | [тетрадка](https://github.com/tbkazakova/compling_for_lyceum/blob/main/seminars/250306_textvis.ipynb)|
+| Краулеры | [тетрадка](https://github.com/tbkazakova/compling_for_lyceum/blob/main/seminars/260402_html.ipynb)|
